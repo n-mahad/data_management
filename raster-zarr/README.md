@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Raster to Zarr Conversion & Validation
 
 ## 📌 Overview
