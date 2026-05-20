@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Raster to Zarr Conversion & Validation
 
 ## 📌 Overview
@@ -82,3 +83,6 @@ A Zarr dataset is ready for ingestion when:
 - Main Contributor: *Namra Mahad*
 - Maintained by: *Namra Mahad (Farmdar)*
 - Contact: *namra@farmdar.co.uk*
+=======
+# data_management
+>>>>>>> fa749d0c3e74989204414d1b8718d2f8941444e6
